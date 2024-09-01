@@ -1,0 +1,45 @@
+.patient {
+  display: inline-block;
+  margin: 5px;
+  color: white;
+  box-shadow: 5px 5px 5px #808080;
+  border-radius: 5px;
+  border: 1px solid #a0a0a0;
+  text-align: center;
+  padding: 5px;
+  min-width: 15px;
+}
+
+.in-queue {
+  background: blue;
+}
+
+.in-department {
+  background: red;
+}
+
+.visited {
+  background: #a0a0a0;
+}
+
+table {
+  border: 2px solid #a0a0a0;
+  border-collapse: collapse;
+  font: normal 16px sans-serif;
+}
+
+td, th {
+  border: 1px solid #a0a0a0;
+  padding: 10px;
+}
+
+th {
+  text-align: center;
+  font-weight: bold;
+}
+
+ul {
+  padding: 0px;
+}
+
+
